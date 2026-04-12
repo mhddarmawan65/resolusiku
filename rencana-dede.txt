@@ -1,0 +1,5 @@
+Halo bang, perkenalkan ini resolusi saya : 
+
+^ Bisa membuat website menggunakan framework javascript
+^ Bisa membuat website menggunakan framework java
+^ Bisa membuat website menggunakan framework Phyton
