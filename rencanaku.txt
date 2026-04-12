@@ -5,6 +5,7 @@ Rencanaku tahun ini adalah belajar beberapa bahasa pemrograman.
   ^ Framework Javascript.
     * Vue
     * React
+    * Angular
 - Php
     * Laravel
 - C++
