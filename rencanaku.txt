@@ -1,6 +1,8 @@
 Rencanaku tahun ini adalah belajar beberapa bahasa pemrograman.
 
 - Javascript
+  ^ ES6.
+  ^ Framework Javascript.
 - Php
 - C++
 - Java
