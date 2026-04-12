@@ -9,4 +9,6 @@ Rencanaku tahun ini adalah belajar beberapa bahasa pemrograman.
     * Laravel
 - C++
 - Java
+  ^ Springboot
+  ^ Jakarta EE
 - Python
